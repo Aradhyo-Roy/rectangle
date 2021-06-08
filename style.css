@@ -1,0 +1,18 @@
+body{text-align: center;
+background:linear-gradient(#228b22 0%,#ffd700 100%);
+}
+#name{background-color: greenyellow;
+height: 40px;
+width: 100x;
+font-size: 20px;
+}
+#Height{background-color: greenyellow;
+height: 40px;
+width: 100x;
+font-size: 20px;
+}
+#breadth{background-color: greenyellow;
+height: 40px;
+width: 100x;
+font-size: 20px;
+}
